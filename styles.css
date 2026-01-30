@@ -1,0 +1,169 @@
+.header {
+    background-color: #004080;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+section {
+    padding: 20px;
+    margin: 20px;
+    border-bottom: 1px solid #ccc;
+}
+section h2 {
+    color: #004080;
+}
+.services article {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+.services article h3 {
+    margin-top: 0;
+}
+.services article p {
+    color: #555;
+}
+.services img {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+#contact form {
+    display: flex;
+    flex-direction: column;
+}
+#contact form label {
+    margin: 10px 0 5px;
+}
+#contact form input, #contact form textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+#contact form button {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #004080;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#contact form button:hover {
+    background-color: #003366;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+a {
+    color: #004080;
+}
+a:hover {
+    text-decoration: underline;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.services {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+.services article {
+    background-color: white;
+}
+.services img {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+.hrf {
+    text-decoration: none;
+    color: #004080;
+}
+.hrf:hover {
+    text-decoration: underline;
+}
+header img {
+    width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+header {
+    background-color: #004080;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.img-responsive {
+    width: 100%;
+    height: auto;
+
+}
+.tech-image {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+.tech-image {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+.services img {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+.footer {
+    background-color: #004080;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.footer p {
+    margin: 0;
+}
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.
+
+
+
+
