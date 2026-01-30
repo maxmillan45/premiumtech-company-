@@ -25,7 +25,7 @@ This landing page demonstrates how a tech startup can present its services
 professionally, build trust, and convert visitors into clients.
 
 ## Screenshots
-(Add screenshots of desktop and mobile views here)
+![alt text](assets/104880359-GettyImages-502715648-hubspot.jpeg)
 
 ## Live Demo
-(Insert GitHub Pages link)
+<video controls src="assets/Top SaaS Marketing Video Example _ NeuraFlow.mp4" title="premiumtech"></video>
